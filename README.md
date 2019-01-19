@@ -18,6 +18,8 @@ model.fit_generator(gen(), samples_per_epoch=1000,nb_epoch=5,
 跑完后的是每个字符的准确率不是整张图片的准确率
 
 # 生成测试图片.py是可以生成供test.py测试的图片
+训练好的模型：
+https://pan.baidu.com/s/1ZCEUo4qBXMEgEIsItQV51A
 
 
 # 参考
